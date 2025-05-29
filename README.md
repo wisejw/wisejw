@@ -1,7 +1,7 @@
 ## Hi, I am Jiawei Wang 👋
 
 - 🤝 I am a Master student at Hubei University (HUBU).
-- 🔭 My research interests: include but are not limited to **Educational Data Mining**, **Knowledge Tracing**, **Recommender Systems**, and **Graph Neural Networks**.
+- 🔭 My research interests: **Educational Data Mining**, **Knowledge Tracing**, **Recommender Systems**, and **Graph Neural Networks**.
 - 📫 Contact: wangjw@stu.hubu.edu.cn.
 - 🔥 Personal Homepage: https://wisejw.github.io/.
 -  ![wisejw](https://komarev.com/ghpvc/?username=wisejw)
